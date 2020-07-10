@@ -1,0 +1,24 @@
+.btn-container {
+	width: 50%;
+	margin-top: 2rem;
+}
+
+button {
+	background: #333333;
+	font-family: 'Space Mono', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	line-height: 21px;
+	letter-spacing: -0.035em;
+	text-transform: uppercase;
+	border: none;
+	outline: none;
+	color: #ffffff;
+	padding: 1.5rem 2rem;
+	cursor: pointer;
+}
+
+button:hover {
+	background: #585757;
+}
