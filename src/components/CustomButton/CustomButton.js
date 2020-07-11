@@ -1,5 +1,7 @@
 import React from 'react';
-import './CustomButton.css';
+
+// Stylesheet
+import './CustomButton.scss';
 
 function CustomButton({ children }) {
 	return (

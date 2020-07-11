@@ -1,7 +1,9 @@
 import React from 'react';
-import './ErrorPage.css';
-import image from '../assets/Scarecrow.png';
-import CustomButton from './CustomButton';
+import image from '../../assets/Scarecrow.png';
+import CustomButton from '../CustomButton/CustomButton';
+
+// Style Sheets
+import './ErrorPage.scss';
 
 function ErrorPage() {
 	return (
@@ -24,7 +26,9 @@ function ErrorPage() {
 				</div>
 			</header>
 
-			<footer className="footer">Abhushan@DevChallenges.io</footer>
+			<footer className="footer">
+				<a href="#">Abhushan@DevChallenges.io</a>
+			</footer>
 		</div>
 	);
 }

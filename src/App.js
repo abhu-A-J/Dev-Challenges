@@ -1,6 +1,8 @@
 import React from 'react';
-import ErrorPage from './components/ErrorPage';
-import './App.css';
+import ErrorPage from './components/ErrorPage/ErrorPage';
+
+// Stylesheets
+import './App.scss';
 
 const App = () => {
 	return <ErrorPage />;

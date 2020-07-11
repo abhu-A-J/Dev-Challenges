@@ -8,6 +8,12 @@
 
 html {
 	font-size: 62.5%;
+	@media only screen and(max-width:1200px) {
+		font-size: 50%;
+	}
+	@media only screen and(min-width:1600px){
+		font-size: 75%;
+	}
 }
 
 a {
@@ -27,13 +33,11 @@ body {
 .u-container {
 	max-width: 120rem;
 	margin: 0 auto;
-	background-color: pink;
-}
 
-@media only screen and(max-width:1200px) {
-	.u-container {
+	@media only screen and(max-width:1200px) {
 		width: 90%;
-		margin: 0 auto;
-		background-color: red;
+	}
+	@media only screen and(min-width:1600px){
+		max-width:140rem;
 	}
 }
