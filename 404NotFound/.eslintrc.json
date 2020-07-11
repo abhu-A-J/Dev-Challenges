@@ -10,7 +10,8 @@
 		],
 		"react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
 		"react/jsx-indent": [2, "tab"],
-		"react/prop-types": 0
+		"react/prop-types": 0,
+		"react/jsx-indent-props":"off"
 	},
 	"parser": "babel-eslint",
 	"parserOptions": {

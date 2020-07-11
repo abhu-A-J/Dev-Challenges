@@ -27,7 +27,13 @@ function ErrorPage() {
 			</header>
 
 			<footer className="footer">
-				<a href="#">Abhushan@DevChallenges.io</a>
+				<a
+					href="https://github.com/abhu-A-J/Dev-Challenges/tree/master/404NotFound"
+					target="_blank"
+					rel="noreferrer"
+				>
+					Abhushan@DevChallenges.io
+				</a>
 			</footer>
 		</div>
 	);
