@@ -12,7 +12,7 @@ I love building UI for applications as it provides a way for me to communicate w
 
 Currently the challanges solved by me are:
 
-|**SL.No**| **Challenge Name** | **Solution Code**|
-|------| -----------| -----------|
-1.| 404 Not Found   | [Folder_link](https://github.com/abhu-A-J/Dev-Challenges/tree/master/404NotFound) |
+|**SLNo**| **Challenge Name** | **Solution Code**| **Preview Link**|
+|----------| -------------------| -----------------|------------------|
+1.| 404 Not Found   | [Folder_link](https://github.com/abhu-A-J/Dev-Challenges/tree/master/404NotFound) | [Netlify](https://happy-hawking-f20605.netlify.app/)
 
