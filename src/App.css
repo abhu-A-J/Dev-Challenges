@@ -27,4 +27,13 @@ body {
 .u-container {
 	max-width: 120rem;
 	margin: 0 auto;
+	background-color: pink;
+}
+
+@media only screen and(max-width:1200px) {
+	.u-container {
+		width: 90%;
+		margin: 0 auto;
+		background-color: red;
+	}
 }
